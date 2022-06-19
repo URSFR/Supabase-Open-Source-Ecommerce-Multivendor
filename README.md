@@ -1,6 +1,8 @@
 # Supabase Open Source Ecommerce Multivendor
 
-THIS IS A OPEN SOURCE ECOMMERCE MADE BY ME (Rodrigo), YOU CAN USE THIS FOR FREE WITHOUT RESTRICTIONS. IT IS NOT MANDATORY TO GIVE CREDITS, BUT I WOULD LIKE YOU TO DO IT BY REDIRECTING TO THIS GITHUB
+THIS IS A OPEN SOURCE ECOMMERCE MADE BY ME (Rodrigo), YOU CAN USE THIS FOR FREE WITHOUT RESTRICTIONS. IT IS NOT MANDATORY TO GIVE CREDITS, BUT I WOULD LIKE YOU TO DO IT BY REDIRECTING TO THIS GITHUB.
+
+
 Flutter Ecommerce Multivendor with the purpose of demonstrating the different functions that Supabase contains, an alternative to Firebase.
 
 ## Getting Started
