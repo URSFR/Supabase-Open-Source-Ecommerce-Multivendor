@@ -12,7 +12,7 @@ In order to use this project, you must have a Supabase account and open a databa
 
 In order to connect the database to the application, you must configure the Supaurl and AnonKey constants with the data indicated in the database as described in the image
 
-![Step 1](https://imgur.com/a/tMTlKCG)
+[Step 1](https://imgur.com/a/tMTlKCG)
 
 ### Step 2 - Create Tables on Database section
 
