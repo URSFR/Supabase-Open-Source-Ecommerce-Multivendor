@@ -19,27 +19,27 @@ In order to connect the database to the application, you must configure the Supa
 In order to store variables you need to open tables named Products and Orders with the constants that will be entered.
 These variables must be the same as in the classes named OrdersStream and ProductsStream as described in the image
 
-![Step 2](https://imgur.com/a/hWi5TwO)
+[Step 2](https://imgur.com/a/hWi5TwO)
 
-![Step 2](https://imgur.com/a/TiiX1uY)
+[Step 2](https://imgur.com/a/TiiX1uY)
 
 ### Step 3 - Create Storage Bucket
 
 A storage bucket must be created to be able to store the images of the products, later you must configure its rules to allow the addition, modification, deletion and selection of files.
 The image shows that it should be product-images as it is in the application
 
-![Step 3](https://imgur.com/a/PBRIlef)
+[Step 3](https://imgur.com/a/PBRIlef)
 
 ### Optional Step 4 - Auth Providers (Google, Facebook, ETC) which is also called deep links
 
 In order to achieve the operation of authentication providers such as google (they are not included in this project) you must provide it in the myAuthRedirectUri variable, which is already exemplified by the Supabase documentation by default, therefore you must add it to the database.
 
-![Step 4](https://imgur.com/a/IBczvT3)
+[Step 4](https://imgur.com/a/IBczvT3)
 
 
 ### Step 5 Enjoy :)
 
-### DOCS
+## DOCS
 
 https://supabase.com/docs/guides/with-flutter
 https://github.com/supabase-community/supabase-flutter
