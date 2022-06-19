@@ -42,7 +42,11 @@ In order to achieve the operation of authentication providers such as google (th
 ## DOCS
 
 https://supabase.com/docs/guides/with-flutter
+
+
 https://github.com/supabase-community/supabase-flutter
+
+
 https://github.com/supabase-community/supabase-dart
 
 
